@@ -1,8 +1,8 @@
-# Microscope 根因推断程序 gh-pages文档展示
+# Microscope 根因推断程序 github-pages文档展示
 
 > 本分支主要是提交中山大学数据科学与计算机学院系统分析与设计课程相关的文档作业
 
-## 为什么需要用 gh-pages ?
+## 为什么需要用 github-pages ?
 
 1. 使用它我们可以把精力专注于书写，只需要提交 md 文件即可。
 
